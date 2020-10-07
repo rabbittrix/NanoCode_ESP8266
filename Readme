@@ -1,0 +1,7 @@
+## Libs intaled
+
+pio lib list
+
+pio lib install LiquidCrystal_I2C ArduinoJSON
+
+pio lib install enjoyneering/LiquidCrystal_I2C@^1.2.4
